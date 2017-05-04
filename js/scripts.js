@@ -1,4 +1,7 @@
 // @codekit-prepend "jquery.js";
 // @codekit-prepend "semantic.js";
 
-console.log('Hello, World!');
+// 'load()' method
+// $('#data').load('/data/data.txt');
+// $('#data').load('/data/data.txt');
+$('#data').load('/data/data.json');
